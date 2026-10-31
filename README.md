@@ -6,9 +6,13 @@
 [![Download Zip](https://img.shields.io/badge/Download_v1.0.0-ZIP-blue?style=for-the-badge&logo=zip)](https://github.com/Kirilka4345/roblox-gacha-ui-luau-framework/releases/download/v1.0.0/Roblox-Gacha-UI-Framework-v1.0.zip)
 [![Roblox Luau](https://img.shields.io/badge/Roblox-Luau-00A2FF?style=for-the-badge&logo=roblox)](https://roblox.com)
 [![Tests: Passing](https://img.shields.io/badge/Tests-3%2F3%20Passing-success?style=for-the-badge&logo=python)](tests/test_gacha.py)
+[![Buy on Gumroad](https://img.shields.io/badge/Buy_on_Gumroad-$19-ff90e8?style=for-the-badge&logo=gumroad)](https://kirillopen.gumroad.com/l/vyybyp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 ---
+
+
+> 🛍️ **Instant Download & Commercial License:** [Buy Roblox Gacha UI Luau Framework on Gumroad ($19)](https://kirillopen.gumroad.com/l/vyybyp)
 
 ## 🚀 Overview
 

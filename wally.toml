@@ -1,6 +1,6 @@
 [package]
 name = "kirilka4345/roblox-gacha-framework"
-version = "1.1.0"
+version = "1.1.1"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 description = "A compact Luau module for weighted item selection and in-memory pity counters."

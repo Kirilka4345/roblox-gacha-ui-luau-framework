@@ -1,0 +1,13 @@
+[package]
+name = "kirilka4345/roblox-gacha-framework"
+version = "1.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "Production-ready Server-Authoritative Gacha & Pity Counter Engine for Roblox Luau"
+license = "MIT"
+authors = ["Kirill"]
+
+[package.metadata]
+commercial = "https://kirillopen.gumroad.com/l/vyybyp"
+funding = "https://kirillopen.gumroad.com"
+bundle = "https://kirillopen.gumroad.com/l/fuuczf"

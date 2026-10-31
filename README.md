@@ -34,6 +34,10 @@ Python structural checks are not runtime tests of GachaManager.luau.
 - [CHANGELOG.md](CHANGELOG.md) — changes and verification limits.
 - [CONTRIBUTING.md](CONTRIBUTING.md) — issue and change guidelines.
 
+## Visual assets
+
+For corresponding 2D icons, rarity slots and 3D loot models, see the asset pack on [itch.io](https://kirilka4345.itch.io/gacha-ui-kit-complete-roblox-slots-buttons-icons-vfx-luau-roll-system) (free sampler available at [gacha-loot-free-sampler](https://kirilka4345.itch.io/gacha-loot-free-sampler-6-icons-3-slots-2-vfx-for-roblox)).
+
 ## Downloads and usage terms
 
 [Repository releases](https://github.com/Kirilka4345/roblox-gacha-ui-luau-framework/releases) contain historical snapshots; use the current source for the documented fixes.
